@@ -1,0 +1,7 @@
+{
+    "id3": {
+        "accuracy": 58.0786,
+        "f1_score": 0.5811
+    },
+    "model_name": "ID3 (Decision Tree)"
+}
